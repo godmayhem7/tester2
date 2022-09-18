@@ -38,7 +38,7 @@ header{
 b{
     background-color: gainsboro;
     margin-bottom: 20px;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
 }
 
 /*everything to do with search in header*/
