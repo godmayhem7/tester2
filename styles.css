@@ -75,10 +75,11 @@ H1{
 section{
     display:flex;
     flex-direction: row;
-    align-items: top;
+    align-items: center;
     border-bottom: solid 2px gainsboro;
     border-top: solid 2px gainsboro;
     margin-bottom: 10px;
+    height:150px;
     
 }
 
