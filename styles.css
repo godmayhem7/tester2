@@ -35,7 +35,7 @@ header{
     width:270px
 }
 
-b{
+.b{
     background-color: gainsboro;
     margin-bottom: 20px;
     letter-spacing: 0px;
@@ -85,7 +85,10 @@ section{
 h3{
     margin: 0;
     margin-bottom: 17px;
+    display:none;
 }
+
+
 
 p{
     font-size: 14px;
