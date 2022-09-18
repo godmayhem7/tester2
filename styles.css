@@ -88,7 +88,10 @@ h3{
     display:none;
 }
 
-
+.song-name{
+    margin: 0;
+    margin-bottom: 17px;
+}
 
 p{
     font-size: 14px;
@@ -166,6 +169,13 @@ footer{
     .search-total form{
         width:540px;
     }
+    
+    /*@media body*/
+    h3{
+    margin: 0;
+    margin-bottom: 17px;
+    display:content;
+}
 
 
     /*@media footer*/
