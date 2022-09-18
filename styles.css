@@ -66,10 +66,6 @@ b{
 
 
 /*beginning of main section*/
-main{
-display:grid;
-grid-template-columns: 1fr 540px;
-}
 
 H1{
     background-color: gainsboro;
